@@ -1,0 +1,5 @@
+﻿  islem.cpp
+d:\lazımlıklar\dersler\veriler\projem\projem\islem.cpp(251): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\lazımlıklar\dersler\veriler\projem\projem\islem.cpp(285): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Projem.vcxproj -> D:\lazımlıklar\dersler\veriler\Projem\Debug\Projem.exe
+  Projem.vcxproj -> D:\lazımlıklar\dersler\veriler\Projem\Debug\Projem.pdb (Full PDB)

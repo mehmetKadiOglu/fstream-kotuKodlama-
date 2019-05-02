@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Projem.cpp
+  islem.cpp
+d:\lazimliklar\dersler\veriler\projem\projem\islem.cpp(251): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\lazimliklar\dersler\veriler\projem\projem\islem.cpp(285): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  film.cpp
+d:\lazimliklar\dersler\veriler\projem\projem\film.cpp(19): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  admin.cpp
+d:\lazimliklar\dersler\veriler\projem\projem\admin.cpp(357): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\lazimliklar\dersler\veriler\projem\projem\admin.cpp(436): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Projem.vcxproj -> D:\lazimliklar\dersler\Veriler\Projem\x64\Debug\Projem.exe
+  Projem.vcxproj -> D:\lazimliklar\dersler\Veriler\Projem\x64\Debug\Projem.pdb (Full PDB)
